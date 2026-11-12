@@ -1,0 +1,6 @@
+/app/conn.php
+
+*.log
+*.tmp
+
+/cache/
